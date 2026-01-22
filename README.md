@@ -12,6 +12,8 @@ git add file-name
 git commit -m "message"
 ```
 - Adds a file to the staging area and commits changes with a message.
+### Right way to do commit 
+<img width="927" height="812" alt="image" src="https://github.com/user-attachments/assets/167e81e0-73a0-4f22-813e-6712e2d6e313" />
 
 ## Viewing Logs
 ```bash

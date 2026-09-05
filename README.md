@@ -2,7 +2,7 @@
 
 ## Initializing a Repository
 ```bash
-git init
+git init 
 ```
 - Initializes a new Git repository.
 
